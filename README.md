@@ -48,4 +48,4 @@
 
 테이블 및 데이터 생성 쿼리
 ---
-☞ [쿼](https://github.com/koscom-hrd/hackathon2020-02/blob/master/Documents/Query.txt)
+☞ [쿼리 확인](https://github.com/koscom-hrd/hackathon2020-02/blob/master/Documents/Query.txt)
