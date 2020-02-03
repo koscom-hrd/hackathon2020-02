@@ -23,7 +23,7 @@
 팀원
 ---
 - 이준형 : <b>리더</b>, Front/Back-End
-- 홍성준 : Back-End, OAuth 2.0, 데이터베이스 설계
+- 홍성준 : Back-End, [OAuth 2.0](https://github.com/ElfCony/react_project/wiki/OAuth-2.0-Flow), 데이터베이스 설계
 - 안대영 : Front/Back-End
 - 김도연 : 기획, 데이터 및 디자인 설계
 
