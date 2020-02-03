@@ -46,4 +46,4 @@
 
 테이블 및 데이터 생성 쿼리
 ---
-
+☞ [Query](https://github.com/koscom-hrd/hackathon2020-02/blob/master/Query.txt)
